@@ -1,0 +1,1 @@
+# nextjs14.5-inventory
