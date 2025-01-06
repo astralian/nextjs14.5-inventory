@@ -1,0 +1,23 @@
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+.idea
+client/node_modules/
+server/node_modules/
+client/dist/
+server/dist/
+client/.env/
+server/.env/
+client/.next/
