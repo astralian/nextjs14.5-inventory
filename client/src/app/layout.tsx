@@ -1,7 +1,7 @@
 import React from 'react';
 import type { Metadata } from 'next';
 import './globals.css';
-import DashboardWrapper from '@/app/dashboardWrapper';
+import DashboardWrapper from '@/components/DashboardWrapper';
 
 export const metadata: Metadata = {
 	title: 'Inventory Dashboard'
